@@ -5,6 +5,6 @@ public class LevelLoader : MonoBehaviour
 {
     public void LoadScene2()
     {
-        SceneManager.LoadScene("Scene 2");
+        SceneManager.LoadScene("Scene2");
     }
 }
